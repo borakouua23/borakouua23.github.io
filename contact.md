@@ -1,7 +1,7 @@
 ## Suka
 `pidar`: `gavno`
 ## Forma
-<form action="https://formsubmit.co/neshappens@gmail.com" method="POST">
+<form action="https://formsubmit.co/r32r23r23@gmail.com" method="POST">
    <label for="name">Name</label><br>
   <input id="name" type="text" name="name" required placeholder="Your Name"><br><br>
   <label for="email">Email</label><br>

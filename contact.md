@@ -7,7 +7,7 @@
   <input type="hidden" name="_captcha" value="false">
 
   <!-- Redirect to your own Docsify page after submit -->
-  <input type="hidden" name="_next" value="https://borakouua23.github.io/#/form/email-sent">
-
+  <input type="hidden" name="_next" value="//localhost:8000/#/form/email-sent">
+  
   <button type="submit">Send</button>
 </form>

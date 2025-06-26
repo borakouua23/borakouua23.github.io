@@ -1,7 +1,7 @@
+- [Home](/)
 - Getting started
-
   - [Quick start](README.md)
   - [reeee](sox.md)
+- REEEEEEEEEEEE
 	  - [lolz](#gg1)
-	  - gg
 	  - [qweeee](#gg2)

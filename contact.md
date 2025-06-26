@@ -9,6 +9,6 @@
   <label for="message">Message</label><br>
   <textarea id="message" name="message" required placeholder="Your Message"></textarea><br><br>
   <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://borakouua23.github.io/#/form/email-sent">
+  <input type="hidden" name="_next" value="https://borakouua23.github.io/email-sent">
   <button type="submit">Send</button>
 </form>

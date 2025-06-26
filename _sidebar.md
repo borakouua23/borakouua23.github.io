@@ -1,6 +1,6 @@
 - Getting Started
 	- [Welcome](README.md)
-	- [Installation](getting-started.md)
-	- [How to Use](guides.md)
+	- [Installation](getting-started/getting-started.md)
+	- [How to Use](getting-started/guides.md)
 - Reeee
 	- [gg](README.md)

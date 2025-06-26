@@ -2,5 +2,6 @@
 
   - [Quick start](README.md)
   - [reeee](sox.md)
-	  - #gg
+	  - [lolz](#gg1)
 	  - gg
+	  - [qweeee](#gg2)

@@ -1,7 +1,6 @@
 - Getting Started
-  - [Welcome](README.md)
-  - [Installation](getting-started.md)
-- Guides
-  - [How to Use](guides.md)
-- API Reference
-  - [Endpoints](api.md)
+	- [Welcome](README.md)
+	- [Installation](getting-started.md)
+	- [How to Use](guides.md)
+- Reeee
+	- [gg](README.md)

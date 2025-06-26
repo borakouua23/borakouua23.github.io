@@ -1,34 +1,24 @@
-# reess4
-gsx
+<form 
+  action="https://formsubmit.co/neshappens@gmail.com" 
+  method="POST"
+>
+  <!-- Form Fields -->
+  <input type="text" name="name" placeholder="Your Name" required>
+  <input type="email" name="email" placeholder="Your Email" required>
+  <textarea name="message" placeholder="Your Message" required></textarea>
 
-<form id="contactForm" action="https://formsubmit.co/sssssssssssss@gmail.com" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" name="name" required><br><br>
-
-  <label for="email">Email:</label>
-  <input type="email" name="email" required><br><br>
-
-  <label for="message">Message:</label><br>
-  <textarea name="message" rows="5" required></textarea><br>
-
+  <!-- Hidden Inputs -->
   <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_redirect" id="redirect-input">
 
+  <!-- Submit -->
   <button type="submit">Send</button>
 </form>
 
 <script>
-  document.getElementById("contactForm").addEventListener("submit", function (e) {
-    e.preventDefault(); // prevent default form submission
-
-    // Create and append _next input
-    const nextInput = document.createElement("input");
-    nextInput.type = "hidden";
-    nextInput.name = "_next";
-    nextInput.value = window.location.origin + "/#/email-sent";
-
-    this.appendChild(nextInput);
-
-    // Submit the form manually after adding the hidden input
-    this.submit();
+  // Set redirect dynamically based on current domain
+  document.addEventListener("DOMContentLoaded", function () {
+    const redirectUrl = `${window.location.origin}/#/form/email-sent`;
+    document.getElementById("redirect-input").value = redirectUrl;
   });
 </script>

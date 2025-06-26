@@ -1,7 +1,7 @@
-- [Home](/)
-- Getting started
-  - [Quick start](README.md)
-  - [reeee](sox.md)
-- REEEEEEEEEEEE
-	  - [lolz](#gg1)
-	  - [qweeee](#gg2)
+- Getting Started
+  - [Welcome](README.md)
+  - [Installation](getting-started.md)
+- Guides
+  - [How to Use](guides.md)
+- API Reference
+  - [Endpoints](api.md)

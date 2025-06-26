@@ -1,3 +1,3 @@
-- 🏠[HOME](start.md)
-- [helpy](help.md)
-- [contact me](contact.md)
+- [🏠**HOME**](start.md)
+- [💡**REEE**](help.md)
+- [📬**Contact**](contact.md)

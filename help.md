@@ -2,11 +2,11 @@
 
 Ree
 
-![s](/images/Pasted%20image%2020250626145901.png)
+![s](/images/Pasted%20image%2020250626145901xxx.png)
 
-![s](/images/Pasted%20image%2020250626145901.png)
+![s](/images/Pasted%20image%2020250626145901xxx.png)
 
-![s](/images/logo.jpg)
+![s](/images/logoxxx.jpg)
 
 # X
 

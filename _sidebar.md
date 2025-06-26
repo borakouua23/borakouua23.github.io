@@ -1,7 +1,7 @@
 - Getting Started
 	- [Welcome](README.md)
-	- [Installation](getting-started/getting-started.md)
-	- [How to Use](getting-started/guides.md)
+	- [Installation](getting-started.md)
+	- [How to Use](guides.md)
 	- [ruk](https://google.com)
 - Reeee
 	- [gg](README.md)

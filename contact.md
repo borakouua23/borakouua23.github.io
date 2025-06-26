@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Contact
 `pidar`: `gavnoxxx`
 
@@ -52,20 +51,3 @@
   <input id="name" type="text" name="name" required placeholder="Tavs vārds">
   <input id="email" type="email" name="email" required placeholder="Tavs e-pasts">
   <textarea id="message" name="message" rows="6" required placeholder="Tavs ziņojums"></textarea>
-
-=======
-## Suka
-`pidar`: `gavno`
-## Forma
-<form action="https://formsubmit.co/r32r23r23@gmail.com" method="POST">
-   <label for="name">Name</label><br>
-  <input id="name" type="text" name="name" required placeholder="Your Name"><br><br>
-  <label for="email">Email</label><br>
-  <input id="email" type="email" name="email" required placeholder="Your Email"><br><br>
-  <label for="message">Message</label><br>
-  <textarea id="message" name="message" required placeholder="Your Message"></textarea><br><br>
->>>>>>> origin/main
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://borakouua23.github.io/email-sent">
-  <button type="submit">Sūtīt ziņu</button>
-</form>

@@ -2,3 +2,5 @@
 
   - [Quick start](README.md)
   - [reeee](sox.md)
+	  - lol
+	  - gg

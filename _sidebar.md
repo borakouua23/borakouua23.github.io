@@ -1,3 +1,3 @@
-- [start](start.md)
+- 🏠[HOME](start.md)
 - [helpy](help.md)
 - [contact me](contact.md)

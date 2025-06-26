@@ -1,6 +1,5 @@
 # GOPSTOP
 
-## [ree](contact.md)
 <h2>Watch the Demo</h2>
 
 <iframe width="100%" height="315"

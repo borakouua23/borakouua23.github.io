@@ -51,3 +51,7 @@
   <input id="name" type="text" name="name" required placeholder="Tavs vārds">
   <input id="email" type="email" name="email" required placeholder="Tavs e-pasts">
   <textarea id="message" name="message" rows="6" required placeholder="Tavs ziņojums"></textarea>
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_next" value="https://borakouua23.github.io/email-sent">
+  <button type="submit">Sūtīt ziņu</button>
+</form>
